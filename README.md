@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sannjayy
 - 👀 I’m interested in Programming & Music
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 znasofficial@gmail.com
 
 <!---
