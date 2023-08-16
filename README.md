@@ -34,8 +34,8 @@ I work mainly with `Python`, `Django`, `Django Rest Framework`, `Next.js` and `R
 </p>
 
 
-- 👀 I’m interested in Programming & Music
-- 📫 znasofficial@gmail.com
+- 👀 I’m interested in Programming, Robotics & Music
+- 📫 me@sanjaysikdar.dev
 
 Thanks for checking my profile! You are awesome ❤️ ❤️‍🔥
 
