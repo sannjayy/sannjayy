@@ -1,12 +1,11 @@
 ## 👋 Hi, My name is Sanjay Sikdar.
 
-I'm a passionate, self-taught **full-stack developer** based in **Kolkata, India**. 🌱
-I'm a perfectionist and I have a keen eye for details.  👀
+I'm a passionate, self-taught full-stack developer based in Kolkata, India. 🌱 I'm a perfectionist and have a keen eye for core knowledge. 👀
 
 
 ## Skills
 
-I work mainly with `Python`, `Django`, `Django Rest Framework`, `Next.js` and `React.js`. My skills include:
+I work mainly with Python, Django, Django Rest Framework, Next.js, React.js, and on DevOps. My skills include:
 
 [![](https://img.shields.io/twitter/follow/znas_sanjay)](https://twitter.com/znas_sanjay) [![](https://img.shields.io/github/followers/sannjayy?style=social)](https://github.com/sannjayy) 
 
