@@ -5,7 +5,7 @@ I'm a passionate, self-taught full-stack developer based in Kolkata, India. 🌱
 
 ## Skills
 
-I work mainly with Python, Django, Django Rest Framework, Next.js, React.js, and on DevOps. My skills include:
+I work mainly with Python, Django, Django Rest Framework, Node.js, Next.js, and on DevOps. My skills include:
 
 [![](https://img.shields.io/twitter/follow/znas_sanjay)](https://twitter.com/znas_sanjay) [![](https://img.shields.io/github/followers/sannjayy?style=social)](https://github.com/sannjayy) 
 
@@ -34,7 +34,10 @@ I work mainly with Python, Django, Django Rest Framework, Next.js, React.js, and
 
 
 - 👀 I’m interested in Programming, Robotics & Music
-- 📫 me@sanjaysikdar.dev
+- 🌏 [www.sanjaysikdar.dev](https://www.sanjaysikdar.dev) 
+- 📖 [read.sanjaysikdar.dev](https://read.sanjaysikdar.dev)
+- 📦 [pypi releases](https://pypi.org/user/sannjayy/) | [npm releases](https://www.npmjs.com/~sannjayy)
+- 📫 hello@sanjaysikdar.dev
 
 Thanks for checking my profile! You are awesome ❤️ ❤️‍🔥
 
